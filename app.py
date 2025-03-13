@@ -50,7 +50,7 @@ if page == "Accueil":
 
 # Page Git Basics
 elif page == "Git Basics":
-    st.markdown('<h1 class="fadeIn">Git Basics</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="fadeIn">Git Basics et special</h1>', unsafe_allow_html=True)
     st.markdown('<p class="slideIn">Git est un système de contrôle de version distribué.</p>', unsafe_allow_html=True)
     st.markdown("""
     ### Commandes de base de Git:
